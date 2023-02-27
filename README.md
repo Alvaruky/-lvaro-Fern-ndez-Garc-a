@@ -11,8 +11,8 @@
     <a href="https://www.instagram.com/imalvaro__/?hl=es" target="blank" style='margin-right:4px'>
      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="imalvaro__" height="28px" width="28px" />
    </a>
-  <a href="https://www.tiktok.com/@elrincondeldev" target="blank" style='margin-right:4px'>
-     <img align="center" src="https://www.tiktok.com/@alvaruky.fdp" alt="alvaruky.fdp" height="28px" width="28px" />
+  <a href="https://www.tiktok.com/@alvaruky.fdp" target="blank" style='margin-right:4px'>
+     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="alvaruky.fdp" height="28px" width="28px" />
    </a>
  </p>
  
