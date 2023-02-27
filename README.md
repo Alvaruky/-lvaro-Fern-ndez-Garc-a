@@ -21,10 +21,30 @@
   <p align="center">I'm Álvaro Fernández García, I'm a Telecommunications technician and I'm doing a higher degree in ASIR, my hobby is parkour and I've been jumping since 2016, apart from parkour these months of course I've realized that coding is becoming a new hobby for me and since I was little I have always liked to create content, either on my YouTube channel, Instagram or by creating new web pages. I am a person who creates web pages and edit videos I am very good at.</p>
 </p>
 <br>
-
-| Achievements | Strengths  | Goals  |
-|-------------|---|---|
-|Be an official Parkour Spain athlete|Stubborn|Finish the first year of ASIR|
-|Creation of a web portfolio|Originality|Master HTML and CSS|
-|             |Friendly|Learn more about SQL and Markdown|
-|             |Ambitius|   |
+<table align="center">
+  <tr>
+    <th>Achievements</th>
+    <th>Strengths</th>
+    <th>Goals</th>
+  </tr>
+  <tr>
+    <td>Be an official Parkour Spain athlete</td>
+    <td>Stubborn</td>
+    <td>Finish the first year of ASIR</td>
+  </tr>
+  <tr>
+    <td>Creation of a web portfolio</td>
+    <td>Originality</td>
+    <td>Master HTML and CSS</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Friendly</td>
+    <td>Learn more about SQL and Markdown</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Ambitious</td>
+    <td></td>
+  </tr>
+</table>
