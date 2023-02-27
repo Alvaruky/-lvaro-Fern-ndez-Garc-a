@@ -1,10 +1,10 @@
 <p>
-    <h3 align="center">Hey ! I'm Álvaro 👋👋</h3>
+    <h3 align="center">👋Hey ! I'm Álvaro👋</h3>
  </p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Petrial_cube.gif" width="50" img align="right">
  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Petrial_cube.gif" width="50" img align="left">
- <p align="center">I'm a <strong>Telecommunications Thecnician</strong></p>
- <p align="center">And a future <strong>ASIR Thecnician</strong> <br />¡These are my social networks👇!</p>
+ <p align="center">📡I'm a <strong>Telecommunications Thecnician📡</strong></p>
+ <p align="center">👨🏻‍💻And a future <strong>ASIR Thecnician</strong>👨🏻‍💻 <br />👇¡These are my social networks!👇</p>
  <p align="center">
   <a href="https://www.youtube.com/c/AlvaroFernandezFDP" target="blank" style="margin-right: 4px">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Alvaro Fernandez" height="28px" width="28px">
