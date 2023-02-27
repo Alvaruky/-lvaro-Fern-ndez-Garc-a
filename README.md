@@ -12,11 +12,11 @@ Soy una persona la cual crear paginas web y editar videos se me dan muy bien.
 * Creación de un portfolio web.
 
 ## **$\textcolor{cyan}{FORTALEZAS}$** 
-* Ambicioso
-* Tenaz
-* Originalidad
-* Simpático
-* Ambicioso
+* Ambicioso.
+* Tenaz.
+* Originalidad.
+* Simpático.
+* Ambicioso.
 
 ## **$\textcolor{cyan}{OBJETIVOS}$** 
 * Acabar el primer año de ASIR.
