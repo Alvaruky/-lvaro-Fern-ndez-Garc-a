@@ -17,27 +17,26 @@
  </p>
 
 <p>
-  <p align="center"><strong>¿Quién soy?</strong></p>
-  <p align="center">Soy Álvaro Fernández García soy técnico en Telecomunicaciones y estoy haciendo el grado superior de ASIR, mi hobby es el parkour y llevo saltando desde 2016, a parte del parkour estos meses de curso me he dado cuenta de que picar código se está convirtiendo en un nuevo hobby para mi y desde pequeño siempre me ha gustado crear contenido, bien sea en mi canal de YouTube, Instagram o mediante la creación de nuevas páginas web. Soy una persona la cual crear paginas web y editar videos se me dan muy bien.</p>
+  <p align="center"><strong>¿Who I am?</strong></p>
+  <p align="center">I'm Álvaro Fernández García, I'm a Telecommunications technician and I'm doing a higher degree in ASIR, my hobby is parkour and I've been jumping since 2016, apart from parkour these months of course I've realized that coding is becoming a new hobby for me and since I was little I have always liked to create content, either on my YouTube channel, Instagram or by creating new web pages. I am a person who creates web pages and edit videos I am very good at.</p>
 </p>
 <br>
 <p>
-<p align="centre"><strong>Logros</strong></p>
-    <p align="centre">Ser atleta oficial de Parkour España.</p>
-    <p align="centre">Creación de un portfolio web.</p>
+<p align="centre"><strong>Achievements</strong></p>
+    <p align="centre">Be an official Parkour Spain athlete.</p>
+    <p align="centre">Creation of a web portfolio.</p>
 </p>
 <br><br>
 <p>
-<p align="centre"><strong>Fortalezas</strong></p>
-    <p align="centre">Ambicioso.</p>
-    <p align="centre">Tenaz.</p>
-    <p align="centre">Originalidad.</p>
-    <p align="centre">Simpático.</p>
-    <p align="centre">Ambicioso.</p>
+<p align="centre"><strong>Strengths</strong></p>
+    <p align="centre">Stubborn.</p>
+    <p align="centre">Originality.</p>
+    <p align="centre">Friendly.</p>
+    <p align="centre">Ambitious.</p>
 </p>
 <br><br>
 <p>
-<p align="centre"><strong>Objetivos</strong></p>
-    <p align="centre">Acabar el primer año de ASIR.</p>
-    <p align="centre">Dominar HTML y CSS.</p>
+<p align="centre"><strong>Goals</strong></p>
+    <p align="centre">Finish the first year of ASIR.</p>
+    <p align="centre">Master HTML and CSS.</p>
 </p>
