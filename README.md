@@ -1,5 +1,21 @@
-## **$\colorbox{blue}{{\color{white}{ÁLVARO\ FERNÁNDEZ\ GARCÍA}}}$**
-
+<p>
+    <h3 align="center">Hey ! I'm Álvaro 👋👋</h3>
+ </p>
+ <p align="center">I'm a <strong>Telecommunications Thecnician</strong></p>
+ <p align="center">And a future <strong>ASIR Thecnician</strong> <br />¡These are my social networks👇!</p>
+ 
+ <p align="center">
+  <a href="https://www.youtube.com/c/AlvaroFernandezFDP" target="blank" style="margin-right: 4px">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Alvaro Fernandez" height="28px" width="28px">
+  </a>
+    <a href="https://www.instagram.com/imalvaro__/?hl=es" target="blank" style='margin-right:4px'>
+     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="imalvaro__" height="28px" width="28px" />
+   </a>
+  <a href="https://www.tiktok.com/@elrincondeldev" target="blank" style='margin-right:4px'>
+     <img align="center" src="https://www.tiktok.com/@alvaruky.fdp" alt="alvaruky.fdp" height="28px" width="28px" />
+   </a>
+ </p>
+ 
 ## **$\textcolor{cyan}{¿\ QUIÉN\ SOY\ ?}$** 
 
 Soy Álvaro Fernández García soy técnico en Telecomunicaciones y estoy haciendo el grado superior de ASIR, mi hobby es el parkour y llevo saltando desde 2016,
