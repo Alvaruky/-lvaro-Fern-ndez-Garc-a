@@ -38,6 +38,6 @@
 <br><br>
 <p>
 <p align="centre"><strong>Objetivos</strong></p>
-    <p align="centre">Acabar el primer año de ASIR</p>
+    <p align="centre">Acabar el primer año de ASIR.</p>
     <p align="centre">Dominar HTML y CSS.</p>
 </p>
