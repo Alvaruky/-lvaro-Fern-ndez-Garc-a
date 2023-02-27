@@ -11,29 +11,33 @@
     <a href="https://www.instagram.com/imalvaro__/?hl=es" target="blank" style='margin-right:4px'>
      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="imalvaro__" height="28px" width="28px" />
    </a>
-  <a href="https://www.tiktok.com/@alvaruky.fdp" target="blank" style='margin-right:4px'>
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="alvaruky.fdp" height="28px" width="28px" />
+  <a href="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" target="blank" style='margin-right:4px'>
+     <img align="center" src="https://www.tiktok.com/@alvaruky.fdp" alt="alvaruky.fdp" height="28px" width="28px" />
    </a>
  </p>
- 
-## **$\textcolor{cyan}{¿\ QUIÉN\ SOY\ ?}$** 
 
-Soy Álvaro Fernández García soy técnico en Telecomunicaciones y estoy haciendo el grado superior de ASIR, mi hobby es el parkour y llevo saltando desde 2016,
-a parte del parkour estos meses de curso me he dado cuenta de que picar código se está convirtiendo en un nuevo hobby para mi y desde pequeño siempre me ha gustado crear contenido, bien sea en mi canal de YouTube, Instagram o mediante la creación de nuevas páginas web. 
-Soy una persona la cual crear paginas web y editar videos se me dan muy bien. 
-
-## **$\textcolor{cyan}{LOGROS}$** 
-* Ser atleta oficial de Parkour España.
-* Hacer más conocido el pk palentino.
-* Creación de un portfolio web.
-
-## **$\textcolor{cyan}{FORTALEZAS}$** 
-* Ambicioso.
-* Tenaz.
-* Originalidad.
-* Simpático.
-* Ambicioso.
-
-## **$\textcolor{cyan}{OBJETIVOS}$** 
-* Acabar el primer año de ASIR.
-* Dominar HTML y CSS.
+<p>
+  <p align="center"><strong>¿Quién soy?</strong></p>
+  <p align="center">Soy Álvaro Fernández García soy técnico en Telecomunicaciones y estoy haciendo el grado superior de ASIR, mi hobby es el parkour y llevo saltando desde 2016, a parte del parkour estos meses de curso me he dado cuenta de que picar código se está convirtiendo en un nuevo hobby para mi y desde pequeño siempre me ha gustado crear contenido, bien sea en mi canal de YouTube, Instagram o mediante la creación de nuevas páginas web. Soy una persona la cual crear paginas web y editar videos se me dan muy bien.</p>
+</p>
+<br><br>
+<p>
+  <p align="centre">Logros</p>
+    <p align="centre">Ser atleta oficial de Parkour España.</p>
+    <p align="centre">Creación de un portfolio web.</p>
+</p>
+<br><br>
+<p>
+  <p align="centre">Fortalezas</p>
+    <p align="centre">Ambicioso.</p>
+    <p align="centre">Tenaz.</p>
+    <p align="centre">Originalidad.</p>
+    <p align="centre">Simpático.</p>
+    <p align="centre">Ambicioso.</p>
+</p>
+<br><br>
+<p>
+  <p align="centre">Objetivos</p>
+    <p align="centre">Acabar el primer año de ASIR</p>
+    <p align="centre">Dominar HTML y CSS.</p>
+</p>
