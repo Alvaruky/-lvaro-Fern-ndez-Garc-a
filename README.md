@@ -19,7 +19,8 @@
 <br>
 <p>
   <p align="center"><strong>¿Who I am?</strong></p>
-  <p align="center">I'm Álvaro Fernández García, I'm a Telecommunications technician and I'm doing a higher degree in ASIR, my hobby is parkour and I've been jumping since 2016, apart from parkour these months of course I've realized that coding is becoming a new hobby for me and since I was little I have always liked to create content, either on my YouTube channel, Instagram or by creating new web pages. I am a person who creates web pages and edit videos I am very good at.</p>
+  <p align="center">I'm Álvaro Fernández García, I'm a Telecommunications technician and I'm doing a higher degree in ASIR, my hobby is parkour and I've been jumping since 2016, apart from parkour these months of course I've realized that coding is becoming a new hobby for me and since I was little I have always liked to create content, either on my YouTube channel, Instagram or by creating new web pages. I am a person who creates web pages and edit videos I am very good at
+  </p>
 </p>
 <br>
 <table align="center">
