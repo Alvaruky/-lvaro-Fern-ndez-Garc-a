@@ -1,5 +1,5 @@
 <p>
-    <h3 align="center">👋Hey ! I'm Álvaro👋</h3>
+    <h3 align="center">👋 Hey ! I'm Álvaro 👋</h3>
  </p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Petrial_cube.gif" width="50" img align="right">
  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Petrial_cube.gif" width="50" img align="left">
